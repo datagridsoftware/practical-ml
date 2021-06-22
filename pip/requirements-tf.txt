@@ -1,0 +1,11 @@
+tensorflow
+sklearn
+pydot
+graphviz
+matplotlib
+seaborn
+notebook
+ipykernel
+ipython
+zipp
+importlib-metadata

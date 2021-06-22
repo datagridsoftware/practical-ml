@@ -1,0 +1,61 @@
+{
+  "fields": [
+    {
+      "metadata": {},
+      "name": "MPG",
+      "nullable": true,
+      "type": "double"
+    },
+
+    {
+      "metadata": {},
+      "name": "Cylinders",
+      "nullable": true,
+      "type": "integer"
+    },
+    {
+      "metadata": {},
+      "name": "Displacement",
+      "nullable": true,
+      "type": "double"
+    },
+    {
+      "metadata": {},
+      "name": "Horsepower",
+      "nullable": true,
+      "type": "double"
+    },
+
+    {
+      "metadata": {},
+      "name": "Weight",
+      "nullable": true,
+      "type": "double"
+    },
+    {
+      "metadata": {},
+      "name": "Acceleration",
+      "nullable": true,
+      "type": "double"
+    },
+    {
+      "metadata": {},
+      "name": "Model Year",
+      "nullable": true,
+      "type": "integer"
+    },
+    {
+      "metadata": {},
+      "name": "Origin",
+      "nullable": true,
+      "type": "integer"
+    },
+    {
+      "metadata": {},
+      "name": "Name",
+      "nullable": true,
+      "type": "string"
+    }
+  ],
+  "type": "struct"
+}
