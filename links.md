@@ -18,14 +18,17 @@ https://www.youtube.com/watch?v=QilHGSYbjDQ
 https://www.kdnuggets.com/2018/03/5-things-reinforcement-learning.html
 
 #### Module 2  
-https://activewizards.com/blog/5-real-world-examples-of-logistic-regression-application  
+https://machinelearningmastery.com/prediction-intervals-for-machine-learning/
+https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148
 https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/​  
 https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76 ​  
 https://www.analyticsvidhya.com/blog/2020/02/cnn-vs-rnn-vs-mlp-analyzing-3-types-of-neural-networks-in-deep-learning/​  
-https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/​  
 https://www.youtube.com/watch?v=KTB_OFoAQcc  
+https://www.youtube.com/watch?v=ueO_Ph0Pyqk ​
 https://stackabuse.com/autoencoders-for-image-reconstruction-in-python-and-keras  
 https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/  
+https://www.ibm.com/cloud/learn/convolutional-neural-networks
+https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/
 
 #### Module 3  
 https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/  
