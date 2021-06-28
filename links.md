@@ -1,5 +1,5 @@
 ### Courses  
-Andrew Ng's – Machine Learning on Youtube​ - https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN   
+Andrew Ng's – Machine Learning on Youtube​ - https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN  
 Andrew Ng's – Machine Learning on Coursera​ - https://www.coursera.org/learn/machine-learning  
 
 ### ML/AI Communities  
@@ -14,25 +14,25 @@ https://youtu.be/fNk_zzaMoSs
 https://en.wikipedia.org/wiki/Anscombe%27s_quartet  
 https://ml-cheatsheet.readthedocs.io/en/latest/gradient_descent.html  
 https://www.tensorflow.org/tutorials/keras/regression  
-https://www.youtube.com/watch?v=QilHGSYbjDQ
-https://www.kdnuggets.com/2018/03/5-things-reinforcement-learning.html
+https://www.youtube.com/watch?v=QilHGSYbjDQ  
+https://www.kdnuggets.com/2018/03/5-things-reinforcement-learning.html  
 
 #### Module 2  
 https://machinelearningmastery.com/prediction-intervals-for-machine-learning/
-https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148
+https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148  
 https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/​  
 https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76 ​  
 https://www.analyticsvidhya.com/blog/2020/02/cnn-vs-rnn-vs-mlp-analyzing-3-types-of-neural-networks-in-deep-learning/​  
 https://www.youtube.com/watch?v=KTB_OFoAQcc  
-https://www.youtube.com/watch?v=ueO_Ph0Pyqk ​
+https://www.youtube.com/watch?v=ueO_Ph0Pyqk ​ 
 https://stackabuse.com/autoencoders-for-image-reconstruction-in-python-and-keras  
 https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/  
-https://www.ibm.com/cloud/learn/convolutional-neural-networks
-https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/
+https://www.ibm.com/cloud/learn/convolutional-neural-networks  
+https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/  
 
 #### Module 3  
 https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/  
-https://www.analyticsvidhya.com/blog/2020/03/one-hot-encoding-vs-label-encoding-using-scikit-learn/   
+https://www.analyticsvidhya.com/blog/2020/03/one-hot-encoding-vs-label-encoding-using-scikit-learn/  
 https://builtin.com/data-science/step-step-explanation-principal-component-analysis  
 
 #### Module 4  
@@ -50,11 +50,11 @@ https://stats.stackexchange.com/questions/414349/is-my-model-any-good-based-on-t
 https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/​  
 https://scikit-learn.org/stable/modules/cross_validation.html​  
 https://medium.datadriveninvestor.com/k-fold-cross-validation-6b8518070833​  
-https://scikit-learn.org/stable/modules/cross_validation.html   
+https://scikit-learn.org/stable/modules/cross_validation.html  
 ​https://towardsdatascience.com/model-drift-in-machine-learning-models-8f7e7413b563​  
 https://towardsdatascience.com/how-to-detect-model-drift-in-mlops-monitoring-7a039c22eaf9​  
 https://aws.amazon.com/blogs/machine-learning/real-time-data-labeling-pipeline-for-ml-workflows-using-amazon-sagemaker-ground-truth/ ​  
-https://www.analyticsvidhya.com/blog/2019/09/everything-know-about-p-value-from-scratch-data-science/   
+https://www.analyticsvidhya.com/blog/2019/09/everything-know-about-p-value-from-scratch-data-science/  
 
 #### Module 6  
 https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-for-ensemble-models/  
@@ -64,9 +64,9 @@ https://thuijskens.github.io/2016/12/29/bayesian-optimisation/
 #### Module 7  
 https://scikit-learn.org/stable/  
 https://github.com/tensorflow/tensorflow/​  
-https://www.tensorflow.org/   
-https://keras.io ​  
-https://github.com/keras-team/keras   
+https://www.tensorflow.org/  
+https://keras.io ​ 
+https://github.com/keras-team/keras  
 https://pytorch.org  
 https://onnx.ai/  
 http://dmg.org/pmml/v4-4-1/GeneralStructure.html  
