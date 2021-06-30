@@ -31,9 +31,13 @@ https://www.ibm.com/cloud/learn/convolutional-neural-networks
 https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/  
 
 #### Module 3  
+https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/a/calculating-standard-deviation-step-by-step  
+https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/  
+https://www.analyticsvidhya.com/blog/2020/10/7-feature-engineering-techniques-machine-learning/  
 https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/  
 https://www.analyticsvidhya.com/blog/2020/03/one-hot-encoding-vs-label-encoding-using-scikit-learn/  
 https://builtin.com/data-science/step-step-explanation-principal-component-analysis  
+https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/  
 
 #### Module 4  
 https://medium.com/analytics-vidhya/what-is-a-pipeline-in-machine-learning-how-to-create-one-bda91d0ceaca  
