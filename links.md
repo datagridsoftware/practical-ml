@@ -18,6 +18,7 @@ https://www.youtube.com/watch?v=QilHGSYbjDQ
 https://www.kdnuggets.com/2018/03/5-things-reinforcement-learning.html  
 
 #### Module 2  
+https://scikit-learn.org/stable/modules/linear_model.html  
 https://machinelearningmastery.com/prediction-intervals-for-machine-learning/
 https://towardsdatascience.com/introduction-to-logistic-regression-66248243c148  
 https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/​  
@@ -32,6 +33,9 @@ https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-netwo
 
 #### Module 3  
 https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/a/calculating-standard-deviation-step-by-step  
+https://www.dataschool.io/comparing-supervised-learning-algorithms/  
+https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a  
+https://www.kaggle.com/questions-and-answers/59305  
 https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/  
 https://www.analyticsvidhya.com/blog/2020/10/7-feature-engineering-techniques-machine-learning/  
 https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/  
