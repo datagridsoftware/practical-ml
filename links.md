@@ -33,6 +33,7 @@ https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-netwo
 
 #### Module 3  
 https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-population/a/calculating-standard-deviation-step-by-step  
+https://www.mathsisfun.com/data/standard-deviation.html  
 https://www.dataschool.io/comparing-supervised-learning-algorithms/  
 https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a  
 https://www.kaggle.com/questions-and-answers/59305  
