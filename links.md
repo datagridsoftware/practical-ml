@@ -36,6 +36,8 @@ https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative
 https://www.mathsisfun.com/data/standard-deviation.html  
 https://www.dataschool.io/comparing-supervised-learning-algorithms/  
 https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a  
+https://towardsdatascience.com/how-neural-networks-solve-the-xor-problem-59763136bdd7  
+http://datahacker.rs/006-solving-the-xor-problem-using-neural-networks-with-pytorch/  
 https://www.kaggle.com/questions-and-answers/59305  
 https://www.analyticsvidhya.com/blog/2020/04/feature-scaling-machine-learning-normalization-standardization/  
 https://www.analyticsvidhya.com/blog/2020/10/7-feature-engineering-techniques-machine-learning/  
