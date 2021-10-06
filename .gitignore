@@ -142,3 +142,4 @@ my_keras_titanic_classifier
 model.png
 
 notebooks/logs
+notebooks/mlruns
