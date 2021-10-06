@@ -140,3 +140,5 @@ spark-logistic-regression-pipeline-model
 
 my_keras_titanic_classifier
 model.png
+
+notebooks/logs
