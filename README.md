@@ -34,7 +34,7 @@ Conda environments supporting the various frameworks used in the exercises.
   pip install -r ./pip/requirements-sklearn.txt
   ```
 
-  For Windows
+  For Windows one additional dependency is required:
   ```
   conda install pywin32
   ```
