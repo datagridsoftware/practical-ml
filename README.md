@@ -11,7 +11,7 @@ Support materials for the Practical Machine Learning course.
    ```
 5. Install the [Prerequisites](#Prerequisites)
 6. Open a system terminal (Mac, Linux)
-    1. For Windows open an **Anaconda Prompt** instead
+    1. For Windows open the **Anaconda Prompt** instead
 7. Open a new terminal go to the folder where you've clone the repository
 8. Create the [SKLearn](#SKLearn) environment
 9. Activate the SkLearn environment and start the **Jupyter Notebooks** from the terminal
