@@ -29,7 +29,7 @@ Conda environments supporting the various frameworks used in the exercises.
 #### SKLearn
 - Conda environment setup
   ```
-  conda create -n sklearn-env python=3.8
+  conda create -n sklearn-env python=3.9
   conda activate sklearn-env
   pip install -r ./pip/requirements-sklearn.txt
   ```
@@ -42,7 +42,7 @@ Conda environments supporting the various frameworks used in the exercises.
 #### Keras / Tensorflow
 - Conda environment setup
   ```
-  conda create -n tf-env python=3.8
+  conda create -n tf-env python=3.9
   conda activate tf-env
   pip install -r ./pip/requirements-tf.txt
   ``` 
@@ -55,7 +55,7 @@ Pyspark is a python layer over a Spark installation.
 
 - Conda environment setup
   ```
-  conda create -n pyspark-env python=3.8
+  conda create -n pyspark-env python=3.9
   conda activate pyspark-env 
   pip install -r ./pip/requirements-pyspark.txt
   ```
@@ -104,7 +104,7 @@ Pyspark is a python layer over a Spark installation.
   ```
   e.g.
   ```
-  conda create -n <env_name> python=3.8
+  conda create -n <env_name> python=3.9
   ```
 
 - Remove conda environment
