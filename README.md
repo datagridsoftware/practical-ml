@@ -38,6 +38,12 @@ Conda environments supporting the various frameworks used in the exercises.
   ```
   conda install pywin32
   ```
+  
+  For Mac with M1 chips one additional dependency is required for XGboost:
+  ```
+  brew install libomp
+  conda install -c conda-forge py-xgboost
+  ```
 
 #### Keras / Tensorflow
 - Conda environment setup
