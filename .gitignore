@@ -143,3 +143,5 @@ model.png
 
 notebooks/logs
 notebooks/mlruns
+
+.DS_Store
