@@ -3,7 +3,7 @@
 Support materials for the Practical Machine Learning course.
 
 ## Getting ready for the course
-1. Install git on your machine
+1. Install git on your machine. See https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 2. `cd` to the desired location on your hard drive
 3. Open a terminal and clone this repository
    ```
