@@ -3,13 +3,18 @@
 Support materials for the Practical Machine Learning course.
 
 ## Getting ready for the course
-1. Clone this repository
-1. Install the [Prerequisites](#Prerequisites)
-1. Open a system terminal (Mac, Linux)
+1. Install git on your machine
+2. `cd` to the desired location on your hard drive
+3. Open a terminal and clone this repository
+   ```
+   git clone git@github.com:datagridsoftware/practical-ml.git
+   ```
+5. Install the [Prerequisites](#Prerequisites)
+6. Open a system terminal (Mac, Linux)
     1. For Windows open an **Anaconda Prompt** instead
-1. In the terminal go to the repository folder
-1. Create the [SKLearn](#SKLearn) environment
-1. Activate the SkLearn environment and start the **Jupyter Notebooks** from the terminal
+7. Open a new terminal go to the folder where you've clone the repository
+8. Create the [SKLearn](#SKLearn) environment
+9. Activate the SkLearn environment and start the **Jupyter Notebooks** from the terminal
     ```
     conda activate sklearn-env
     jupyter-notebook
