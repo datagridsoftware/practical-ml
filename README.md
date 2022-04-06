@@ -16,6 +16,8 @@ Support materials for the Practical Machine Learning course.
 1. Create the [SKLearn](#SKLearn) environment
 1. Activate the SkLearn environment and start the **Jupyter Notebooks** from the terminal
     ```
+    cd <your_preferred_location_on_hdd>
+    cd practical_ml
     conda activate sklearn-env
     jupyter-notebook
     ```
