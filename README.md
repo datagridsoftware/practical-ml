@@ -7,7 +7,7 @@ Support materials for the Practical Machine Learning course.
 1. Open a terminal and clone this repository
    ```
    cd <your_preferred_location_on_hdd>
-   git clone git@github.com:datagridsoftware/practical-ml.git
+   git clone https://github.com/datagridsoftware/practical-ml.git
    ```
 1. Install the [Prerequisites](#Prerequisites), see below
 1. Open a system terminal (Mac, Linux)
