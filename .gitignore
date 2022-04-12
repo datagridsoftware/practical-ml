@@ -145,3 +145,5 @@ notebooks/logs
 notebooks/mlruns
 
 .DS_Store
+*.dot
+raw_data.csv
