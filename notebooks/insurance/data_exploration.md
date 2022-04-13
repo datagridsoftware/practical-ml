@@ -1,6 +1,6 @@
 # Data exploration
 
-There are some important ways that are helpfull in understanding and visualising data. Once the data is read, and there is a dataframe object reated you can:
+There are some important ways that are helpful in understanding and visualizing data. Once the data is read, and there is a dataframe object created you can:
 
     - preview dataframe
 
@@ -13,7 +13,7 @@ There are some important ways that are helpfull in understanding and visualising
         dataframe.describe()
         Description of the data and some summary statistics (count, mean, max, min, etc)
 
-Ther are many other methods that display data in various ways. Pleas erefer to the documentation link below
+There are many other methods that display data in various ways. Please refer to the documentation link below
 
 Documentation: [Dataframe operations](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.head.html?highlight=head) 
 

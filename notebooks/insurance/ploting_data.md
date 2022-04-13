@@ -1,8 +1,8 @@
 # Plotting data
 
-In most of the cases it is usefull to have a visula representation of the data. There are several ways of visualizing the data, and is this course we will refer to a fraction of those.
+In most of the cases it is useful to have a visual representation of the data. There are several ways of visualizing the data and is this course we will refer to a fraction of those.
 
-- Data hystogram
+- Data histogram
 
         dataset.hist()
         Creates a histogram of the numerical features in the dataset
@@ -15,5 +15,6 @@ In most of the cases it is usefull to have a visula representation of the data. 
 - Box plot
 
         dataset.boxplot()
-        Chart contaiing several data information like variance, median, etc
+        Chart containing several data information like variance, median, etc
+
 

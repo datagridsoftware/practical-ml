@@ -1,9 +1,9 @@
 # Data preparation
  
- There are several ways to prepare the data for consumption, and there are countlesss resources dedicated to this. We will refer only to the ones that are used in this notebook, even though this is not a "defenitive guide to data prep", but is enough to get you started.
+ There are several ways to prepare the data for consumption, and there are countless resources dedicated to this. We will refer only to the ones that are used in this notebook, even though this is not a "definitive guide to data prep” but is enough to get you started.
 
 1. Missing values.
-    To print the statistica about the missing values for a dataframe 
+    To print the statistics about the missing values for a dataframe 
 
         Example:
         dataset_nulls.isnull().sum()
@@ -52,10 +52,10 @@
 
 2. Data conversion 
 
-    Most of the algorithms used for training a model require data to be of numerical format, so in order to get the most out of the data, a conversion to number is needed.this 
+    Most of the algorithms used for training a model require data to be of numerical format, so in order to get the most out of the data, a conversion to number is needed. 
 
     - **Label encoding**
-        It is used to convert cathegorical data in numeric data by assigning a number for each cathegory entry.
+        It is used to convert categorical data in numeric data by assigning a number for each category entry.
         
         Example:
         ```
@@ -67,7 +67,7 @@
     
     - **Ordinal variable encoding**
         
-        In case of ordinal variables, where there is a relation between the values of a feature, that oreder needs to be preserved. In this a mappring between a categorical value and a number is created.
+        In case of ordinal variables, where there is a relation between the values of a feature, that order needs to be preserved. In this a mapping between a categorical value and a number is created.
         Example:
 
         ```
@@ -79,8 +79,7 @@
 
     - **Nominal variable encoding (One Hot Encoder)**
 
-        Not in all cases the order is important, and in some cases result in poor performing models. To avoid that we can use One Hot Encoder techinique, which will create so called "dummy" variables.
-
+        Not in all cases the order is important, and in some cases result in poor performing models. To avoid that we can use One Hot Encoder technique, which will create so called "dummy" variables.
 
 
         **Before OHE:**
@@ -98,3 +97,4 @@
         | 1  |  0  | 0  |
         | 0  |  0  | 1  |
         | 0  |  1  | 0  |
+
