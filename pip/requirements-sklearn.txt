@@ -11,3 +11,4 @@ zipp
 importlib-metadata
 mlflow
 xgboost
+openpyxl
